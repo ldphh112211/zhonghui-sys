@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\bin\Debug\netcoreapp2.0\ResourceServer.deps.json
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\bin\Debug\netcoreapp2.0\ResourceServer.runtimeconfig.json
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\bin\Debug\netcoreapp2.0\ResourceServer.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\bin\Debug\netcoreapp2.0\ResourceServer.dll
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\bin\Debug\netcoreapp2.0\ResourceServer.pdb
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\obj\Debug\netcoreapp2.0\ResourceServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\obj\Debug\netcoreapp2.0\ResourceServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\obj\Debug\netcoreapp2.0\ResourceServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\obj\Debug\netcoreapp2.0\ResourceServer.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\obj\Debug\netcoreapp2.0\ResourceServer.dll
+C:\Users\Administrator\Downloads\Demos-master\src\JwtTokenDemo2\ResourceServer\obj\Debug\netcoreapp2.0\ResourceServer.pdb
